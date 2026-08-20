@@ -26,7 +26,7 @@ Data harga saham BBCA dianalisis menggunakan pendekatan statistik time series un
 ```
 ├── R BBCA.R                                          # Script utama analisis ARIMA
 ├── Data Historis BBCA.csv                             # Dataset harga saham (lokal)
-├── Bagus Arya Dwipangga_1314623042_Tugas Projek ARW Final.md   # Laporan lengkap
+├── Bagus Arya Dwipangga_1314623042_Tugas Projek ARW Final.pdf   # Laporan lengkap
 └── README.md
 ```
 

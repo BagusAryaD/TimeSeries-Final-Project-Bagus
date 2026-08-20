@@ -54,7 +54,7 @@ Data harga saham BBCA dianalisis menggunakan pendekatan statistik time series un
 
 Laporan lengkap beserta tinjauan pustaka, metodologi, hasil, dan pembahasan terdapat pada file:
 
-[`Bagus Arya Dwipangga_1314623042_Tugas Projek ARW Final.md`](Bagus%20Arya%20Dwipangga_1314623042_Tugas%20Projek%20ARW%20Final.md)
+[`Bagus Arya Dwipangga_1314623042_Tugas Projek ARW Final.pdf`](Bagus%20Arya%20Dwipangga_1314623042_Tugas%20Projek%20ARW%20Final.pdf)
 
 ## Penulis
 
